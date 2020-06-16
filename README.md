@@ -1,0 +1,2 @@
+# Image_Classifier
+ Built a CNN model to perform image classification using keras on cifar10 dataset. Performed 2D convolutions, MaxPooling2D, AveragePooling2D. Optimized the network weights using Adam Optimizer. Also, performed network regularization techniques such as Dropout. Evaluated the model, using confusion matrices and classification reports. For enhancing the network generalization capabality, did image augmentation. 
